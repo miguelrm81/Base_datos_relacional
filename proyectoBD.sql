@@ -76,7 +76,7 @@ VALUES
   ('Madrid', 'P.º de Recoletos, 15, 28004 Madrid'),
   ('Valencia', 'Plaça de L aigua, 46024 Valencia');
 
--- INSERT TABLA 'campus'
+-- INSERT TABLA 'promociones'
 INSERT INTO promociones (promocion, fecha)
 VALUES
   ('Septiembre','2023-09-18'),
