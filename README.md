@@ -26,7 +26,7 @@ El proyecto incluye las siguientes tablas en la base de datos:
 
 ## Autores
 - Miguel Ruiz
-- Alejandro sánchez
+- Alejandro Sánchez
 - Alicia Cortinez
 - Diego Nuñez
 - Maria Neches
