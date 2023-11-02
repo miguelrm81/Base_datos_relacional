@@ -99,7 +99,7 @@ VALUES
   ('Ana Sofía Ferrer','TA','FS',2,2),
   ('Angélica Corral','TA','FS',1,2),
   ('Ariel Lledó','TA','DS',1,1),
-  ('Mario Prats','LI','FS',2,2)
+  ('Mario Prats','LI','FS',2,2),
   ('Luis Ángel Suárez','LI','FS',1,1),
   ('María Dolores Diaz','LI','DS',1,1);
 
