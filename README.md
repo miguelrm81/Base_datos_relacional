@@ -2,11 +2,9 @@
 ## Descripción del Proyecto
 Este proyecto consiste en la creación de una base de datos relacional desde cero para gestionar información de alumnos, profesores, promociones, campus, proyectos y notas de proyectos. La base de datos permitirá almacenar y gestionar datos relacionados con estudiantes, profesores, promociones, campus, proyectos y el progreso de los estudiantes en los proyectos.
 
-## Diagrama de loquesea
+## Diagrama Entidad-Relación
+![Diagrama Entidad-Relación](./diagramas/diagrama_entidad_relacion.png)
 
-
-## Modelo lógico relacional
-<img src=“./diagramas/modelo_logico_relacional.png” width=“750" height=“450”/>
 
 ## Estructura de la Base de Datos
 El proyecto incluye las siguientes tablas en la base de datos:
@@ -29,6 +27,10 @@ El proyecto incluye las siguientes tablas en la base de datos:
 6. NotasProyectos
 
   - Campos: Alumno_id, Proyecto_id, Estado
+
+## Diagrama de modelo lógico de la base de datos
+![Modelo lógico de la base de datos](./diagramas/modelo_logico_relacional.png)
+
 
 ## Autores
 - Miguel Ruiz
