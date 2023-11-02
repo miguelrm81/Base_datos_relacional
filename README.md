@@ -31,6 +31,12 @@ El proyecto incluye las siguientes tablas en la base de datos:
 ## Diagrama de modelo lógico de la base de datos
 ![Modelo lógico de la base de datos](./diagramas/modelo_logico_relacional.png)
 
+## Datos de acceso a la DB
+- Hostname: flora.db.elephantsql.com
+- Port: 5432
+- Maintenance database: 	ufdxjqut
+- Username: 	ufdxjqut
+- Password: _en entregable classrom_
 
 ## Autores
 - Miguel Ruiz
