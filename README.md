@@ -2,6 +2,12 @@
 ## Descripción del Proyecto
 Este proyecto consiste en la creación de una base de datos relacional desde cero para gestionar información de alumnos, profesores, promociones, campus, proyectos y notas de proyectos. La base de datos permitirá almacenar y gestionar datos relacionados con estudiantes, profesores, promociones, campus, proyectos y el progreso de los estudiantes en los proyectos.
 
+## Diagrama de loquesea
+
+
+## Modelo lógico relacional
+<img src=“./diagramas/modelo_logico_relacional.png” width=“750" height=“450”/>
+
 ## Estructura de la Base de Datos
 El proyecto incluye las siguientes tablas en la base de datos:
 
