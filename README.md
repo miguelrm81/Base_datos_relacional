@@ -7,7 +7,7 @@ El proyecto incluye las siguientes tablas en la base de datos:
 
 1. Alumnos
 
-  -Campos: Nombre, Email, Promoción, Campus
+  - Campos: Nombre, Email, Promoción, Campus
 2. Profesores
 
   - Campos: Nombre, Rol, Vertical, Promoción, Campus
